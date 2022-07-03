@@ -1,0 +1,10 @@
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Development\Training\Back\PersonalTracking\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

@@ -1,0 +1,7 @@
+C:\Development\Training\Back\PersonalTracking\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Development\Training\Back\PersonalTracking\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Development\Training\Back\PersonalTracking\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Development\Training\Back\PersonalTracking\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\PersonalTracking\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Development\Training\Back\PersonalTracking\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Development\Training\Back\PersonalTracking\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache

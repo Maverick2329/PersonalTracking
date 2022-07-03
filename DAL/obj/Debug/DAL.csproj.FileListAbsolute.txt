@@ -1,0 +1,7 @@
+C:\Development\Training\Back\PersonalTracking\DAL\bin\Debug\DAL.dll.config
+C:\Development\Training\Back\PersonalTracking\DAL\bin\Debug\DAL.dll
+C:\Development\Training\Back\PersonalTracking\DAL\bin\Debug\DAL.pdb
+C:\Development\Training\Back\PersonalTracking\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Development\Training\Back\PersonalTracking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\PersonalTracking\DAL\obj\Debug\DAL.dll
+C:\Development\Training\Back\PersonalTracking\DAL\obj\Debug\DAL.pdb
